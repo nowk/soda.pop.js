@@ -43,7 +43,7 @@ function which(step) {
 
 
 /*
- * step stack
+ * soda.pop
  */
 
 var Soda = {};
