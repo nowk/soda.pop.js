@@ -1,0 +1,25 @@
+{
+  "name": "soda-pop",
+  "version": "0.0.0",
+  "description": "Given, Then, When style for Soda.js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "soda": "~0.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nowk/soda.pop.js.git"
+  },
+  "author": "Yung Hwa Kwon <yung.kwon@damncarousel.com> (http://damncarousel.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nowk/soda.pop.js/issues"
+  }
+}
